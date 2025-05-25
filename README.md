@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Quoc+Anh;💻+Full+Stack+Developer;🇻🇳+From+Vietnam;🚀+Welcome+to+my+profile!&center=true&size=27&color=58A6FF&vCenter=true&width=500&height=60">
 </div>
 
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 <div align="center">
@@ -26,24 +25,25 @@
 
 <div align="center">
 
-**👨‍💻 Developer from Vietnam 🇻🇳**
+**👨‍💻 Full Stack Developer from Vietnam 🇻🇳**
 
-**💼 Tech Stack:** JavaScript • Java • C# • HTML/CSS  
-**🎯 Current Focus:** Building amazing web applications  
+**💼 Tech Stack:** Python • Java • C++ • C# • JavaScript  
+**🎯 Current Focus:** Building full-stack web applications  
 **🧩 Fun Fact:** I love solving coding challenges!
 
 **🔧 Technologies I work with:**
-- **Frontend:** React, HTML5, CSS3
-- **Backend:** Spring, .NET Core  
-- **Database:** MySQL
-- **Tools:** Git, IntelliJ, Unity
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Flask (Python), Spring Boot (Java), .NET Core (C#)
+- **Languages:** Python, Java, C++, C#, JavaScript
+- **Database:** MySQL, SQL Server, MongoDB
+- **Tools:** Git, IntelliJ, Visual Studio
 
 </div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,spring,cs,dotnet,html,css,mysql,git,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,java,spring,cpp,cs,dotnet,js,html,css,mysql,mongodb,git,idea,visualstudio&theme=dark" />
 </div>
 
 ## 📊 GitHub Stats
@@ -58,8 +58,8 @@
 
 ## 🎯 Current Goals
 
-- 🔭 Building innovative web applications
-- 🌱 Mastering modern development frameworks
+- 🔭 Building scalable full-stack applications
+- 🌱 Mastering modern web development frameworks
 - 🤝 Contributing to open source projects
 - 📚 Continuous learning and growth
 
