@@ -1,59 +1,74 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgwaGgxc3hqYWs1dzdvajlwOGlvNTJjenkyNzh5MGNpOHN2dXVodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Quoc+Anh;💻+Full+Stack+Developer;🇻🇳+From+Vietnam;🚀+Welcome+to+my+profile!&center=true&size=27&color=58A6FF&vCenter=true&width=500&height=60">
 </div>
-<div id="badges" align="center">
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
+</div>
+
+<div align="center">
   <a href="https://www.facebook.com/quocanh.giasu/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:quocanh.1308@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leag-13&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1 align="center">
-  Hi there 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://komarev.com/ghpvc/?username=leag-13&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
----
+<br/>
 
-### :woman_technologist: About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+## 🚀 About Me
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies and frameworks
-- 👯 I'm looking to collaborate on interesting open source projects
-- 🤔 I'm looking for help with advanced development techniques
-- 💬 Ask me about programming, technology, or anything tech-related
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:quocanh.1308@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving coding challenges and exploring new tech trends
+<div align="center">
 
----
+**👨‍💻 Developer from Vietnam 🇻🇳**
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" title="nuget" alt="nuget" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>
+**💼 Tech Stack:** JavaScript • Java • C# • HTML/CSS  
+**🎯 Current Focus:** Building amazing web applications  
+**🧩 Fun Fact:** I love solving coding challenges!
+
+**🔧 Technologies I work with:**
+- **Frontend:** React, HTML5, CSS3
+- **Backend:** Spring, .NET Core  
+- **Database:** MySQL
+- **Tools:** Git, IntelliJ, Unity
+
 </div>
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,spring,cs,dotnet,html,css,mysql,git,unity&theme=dark" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=leag-13&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leag-13&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</div>
+
+## 🎯 Current Goals
+
+- 🔭 Building innovative web applications
+- 🌱 Mastering modern development frameworks
+- 🤝 Contributing to open source projects
+- 📚 Continuous learning and growth
+
 ---
 
-### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=leag-13&theme=youtube-dark&hide_border=true&border_radius=14.4&card_width=500" alt="GitHub Streak" /></a> </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leag-13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <b>Thanks for visiting! Let's connect and build something amazing together! 🚀</b>
+</div>
